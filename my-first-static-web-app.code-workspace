@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "vue-basic",
+			"path": "../vue-my-first-static-web-app/vue-basic"
+		}
+	],
+	"settings": {}
+}
